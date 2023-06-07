@@ -1,0 +1,73 @@
+.pleaseContactUs {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  line-height: 29px;
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+  width: 724px;
+  height: 72px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 757px;
+  height: 141px;
+}
+.typeYourMessage {
+  position: absolute;
+  top: 27px;
+  left: 23px;
+  text-transform: capitalize;
+}
+.groupParent,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 757px;
+  height: 141px;
+}
+.groupWrapper {
+  top: 301px;
+  font-size: var(--font-size-base);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-darkslateblue);
+  box-shadow: 0 24px 34px rgba(7, 122, 242, 0.13);
+  width: 183px;
+  height: 54px;
+}
+.submit {
+  position: absolute;
+  top: 20px;
+  left: 61px;
+  font-weight: 600;
+}
+.rectangleParent {
+  position: absolute;
+  top: 473px;
+  left: 284px;
+  width: 183px;
+  height: 54px;
+  color: var(--color-white);
+}
+.pleaseContactUsForCreativeParent {
+  position: absolute;
+  top: 177px;
+  left: 79px;
+  width: 759px;
+  height: 527px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+  font-family: var(--font-open-sans);
+}

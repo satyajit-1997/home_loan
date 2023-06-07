@@ -1,0 +1,225 @@
+.layer3Icon {
+  height: 39.42%;
+  width: 100%;
+  top: 0;
+  right: 0.01%;
+  bottom: 60.58%;
+  left: -0.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon,
+.productChild,
+.productItem {
+  position: absolute;
+  display: none;
+}
+.productChild {
+  height: 35.32%;
+  width: 57.25%;
+  top: 4.09%;
+  right: 0;
+  bottom: 60.58%;
+  left: 42.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.productItem {
+  height: 39.47%;
+  width: 100%;
+  top: 0;
+  right: -79.75%;
+  bottom: 60.53%;
+  left: 79.75%;
+  background-color: var(--color-gainsboro);
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 500px;
+  object-fit: cover;
+}
+.product1,
+.programs {
+  position: absolute;
+  top: 208px;
+  left: 637px;
+  font-size: var(--font-size-51xl);
+  text-transform: uppercase;
+  text-align: center;
+}
+.programs {
+  top: 316px;
+  left: 686px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.25em;
+}
+.productInner,
+.rectangleIcon {
+  position: absolute;
+  top: 329.2px;
+  left: 635px;
+  width: 18.38px;
+  height: 11.6px;
+}
+.rectangleIcon {
+  left: 945px;
+}
+.lineDiv,
+.productChild1 {
+  position: absolute;
+  top: 309.5px;
+  left: 662.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 275px;
+  height: 1px;
+}
+.productChild1 {
+  top: 368.5px;
+}
+.maskGroupIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 480px;
+  object-fit: cover;
+}
+.aDfaLoan,
+.dfaLoans {
+  position: absolute;
+  left: 34px;
+}
+.dfaLoans {
+  top: 360px;
+  line-height: 32px;
+}
+.aDfaLoan {
+  top: 404px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nunito-sans);
+  display: inline-block;
+  width: 233px;
+}
+.maskGroupParent {
+  position: absolute;
+  top: 1310px;
+  left: 618px;
+  width: 364px;
+  height: 480px;
+}
+.conventionalLoansAre,
+.mortgageEstimator {
+  position: absolute;
+  left: 34px;
+  display: inline-block;
+}
+.mortgageEstimator {
+  top: 356px;
+  line-height: 32px;
+  width: 226px;
+}
+.conventionalLoansAre {
+  top: 426px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nunito-sans);
+  width: 233px;
+}
+.groupDiv,
+.maskGroupContainer,
+.maskGroupGroup {
+  position: absolute;
+  top: 806px;
+  left: 1006px;
+  width: 364px;
+  height: 480px;
+}
+.groupDiv,
+.maskGroupContainer {
+  top: 1310px;
+}
+.groupDiv {
+  top: 806px;
+  left: 230px;
+}
+.achlLoansAre {
+  position: absolute;
+  top: 404px;
+  left: 34px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nunito-sans);
+  display: inline-block;
+  width: 240px;
+}
+.maskGroupParent1 {
+  position: absolute;
+  top: 1310px;
+  left: 230px;
+  width: 364px;
+  height: 480px;
+}
+.aStepBy {
+  position: absolute;
+  top: 719px;
+  left: 225px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-nunito-sans);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 558px;
+}
+.loanProgramsRealtor,
+.process,
+.products {
+  position: absolute;
+  text-transform: uppercase;
+}
+.products {
+  top: 636px;
+  left: 225px;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+}
+.loanProgramsRealtor,
+.process {
+  font-weight: 600;
+  font-family: var(--font-nunito-sans);
+}
+.process {
+  top: 606px;
+  left: 225px;
+  font-size: var(--font-size-base);
+  color: var(--color-yellowgreen);
+}
+.loanProgramsRealtor {
+  top: 67px;
+  left: 840px;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.1em;
+  text-align: right;
+}
+.image2Icon {
+  position: absolute;
+  top: 36px;
+  left: 80px;
+  width: 59px;
+  height: 63px;
+  object-fit: cover;
+}
+.product {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2027px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-cormorant-garamond);
+}

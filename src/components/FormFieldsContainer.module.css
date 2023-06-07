@@ -1,0 +1,37 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 370px;
+  height: 64px;
+}
+.firstName {
+  position: absolute;
+  top: 27px;
+  left: 23px;
+  text-transform: capitalize;
+}
+.groupContainer,
+.groupDiv,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 64px;
+}
+.groupDiv,
+.groupParent {
+  left: 389px;
+}
+.groupParent {
+  top: 137px;
+  left: 0;
+  width: 759px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-open-sans);
+}
